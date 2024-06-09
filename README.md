@@ -26,6 +26,26 @@
 ## #5 
 **Identify** TWO commonly used programming languages and explain the benefits and drawbacks of each.
 
+> Hello there!
+>
+>My name is Alex, and I’m the director of the Super Awesome Museum (SAM). We display a variety of interesting artefacts, objects, and paraphernalia about all sorts of things from all over the world.
+>
+>I’m writing to you because the SAM needs a website. The museum is new in the city, we’re fully funded and don’t sell our items but we just need to encourage people to visit the museum.
+>
+>We would need a website that showcases some of our interesting exhibits and items, helps people find their way to the museum, and helps people contact the museum.
+>
+>We don’t know much about this website stuff - does this sound like something that you can do? 
+>
+>Looking forward to hearing from you,
+>
+>Alex
+>
+>Director
+>
+>Super Awesome Museum 
+
+
+
 ## #6 
 A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself.
 
